@@ -1,4 +1,4 @@
-<img width="1439" height="811" alt="retail_sales_dashboard" src="https://github.com/user-attachments/assets/db9b494f-e27a-4fbc-902b-99759f59f4e6" /># Cosmetics Retail Analytics Dashboard  
+ # Cosmetics Retail Analytics Dashboard  
 **Power BI | Pure Power Query ETL | DAX | Star Schema DW**
 
 This project showcases an end-to-end BI solution for a cosmetics retail business.  
@@ -81,10 +81,7 @@ README.md
 
 | Sales & Promotion Dashboard | Customer Loyalty Dashboard |
 |----------------------------|-----------------------------|
-| ![<img width="1439" height="811" alt="retail_sales_dashboard" src="https://github.com/user-attachments/assets/956653a2-df6b-43a6-9747-14a4c72fed9a" />
-]![Uploading retail_sales_dashboard.png…]()
-(screenshots/retail_sales_dashboard.png) | ![<img width="1435" height="803" alt="customer_insight_dashboard" src="https://github.com/user-attachments/assets/0612db53-6082-43e4-8cfb-7f5da2a7a4e1" />
-](screenshots/customer_insight_dashboard.png) |
+| ![]!(Screenshots/retail_sales_dashboard.png) | ![](Screenshots/customer_insight_dashboard.png) |
 
 ---
 
