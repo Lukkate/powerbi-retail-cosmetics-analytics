@@ -1,0 +1,13 @@
+CustomerID,Name,Gender,Birthday,Phone,Email,RegisterDate,IsMember,MemberLevel
+1001,พิมพ์ใจ สังข์เอี่ยมวงศ์,F,1999-03-24,081-111-2233,pimjai@example.com,2025-03-10,TRUE,Silver
+1002,อนวัช ทองดี,M,1997-07-11,082-222-3344,anawat@example.com,2025-05-05,FALSE,
+1003,สุชาดา มีสุข,F,1988-12-02,083-333-4455,suchada@example.com,2024-12-20,TRUE,Gold
+1004,ทศพล รัตนโชติ,M,1995-01-15,084-444-5566,tossapol@example.com,2025-01-18,TRUE,Platinum
+1005,ศิริพร ใจดี,F,2000-08-30,085-555-6677,siriporn@example.com,2025-06-01,FALSE,
+1006,ภาคภูมิ เทพสวัสดิ์,M,1996-09-09,086-666-7788,pakpoom@example.com,2025-03-22,TRUE,Silver
+1007,สุภาวดี จันทร์เพ็ญ,F,1998-05-18,087-777-8899,supawadee@example.com,2025-04-03,TRUE,Gold
+1008,นรากร แสงทอง,M,1994-11-23,088-888-9900,narakorn@example.com,2025-02-25,TRUE,Silver
+1009,ศุภชัย อินทร,M,1985-02-05,089-999-0011,supachai@example.com,2025-01-30,FALSE,
+1010,พัชรี กาญจนา,F,1992-04-14,080-123-4567,patcharee@example.com,2025-03-15,TRUE,Gold
+1011,กิตติศักดิ์ พงษ์ไพบูลย์,M,1989-08-08,081-234-5678,kittisak@example.com,2025-06-10,TRUE,Platinum
+1012,ธนพร สุวรรณ,F,1997-10-21,082-345-6789,thanaporn@example.com,2025-04-22,FALSE,
