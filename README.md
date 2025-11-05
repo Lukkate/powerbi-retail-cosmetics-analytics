@@ -81,7 +81,7 @@ README.md
 
 | Sales & Promotion Dashboard | Customer Loyalty Dashboard |
 |----------------------------|-----------------------------|
-| ![]!(Screenshots/retail_sales_dashboard.png) | ![](Screenshots/customer_insight_dashboard.png) |
+| ![](Screenshots/retail_sales_dashboard.png) | ![](Screenshots/customer_insight_dashboard.png) |
 
 ---
 
